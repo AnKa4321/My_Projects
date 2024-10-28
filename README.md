@@ -1,1 +1,4 @@
-In this project, we will analyze and visualize earthquake data from Greece from year 1965 until 2023 using libraries, statistical calculations and graphs.
+This folder contains a collection of data science personal projects.
+It serves as a portfolio of my work, demonstrating my abilities and creativity.
+Each project showcases unique skills and concepts.
+I welcome any feedback and inquiries regarding these projects.
